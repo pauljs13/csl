@@ -636,7 +636,7 @@
       <key variable="title"/>
     </sort>
     <layout suffix=" ">
-      <group delimiter=". " display="block">
+      <group delimiter=". ">
         <text macro="contributors"/>
         <text macro="date"/>
         <text macro="title"/>
