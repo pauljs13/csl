@@ -635,8 +635,8 @@
       <key variable="issued"/>
       <key variable="title"/>
     </sort>
-    <layout suffix="&#10;">
-      <group delimiter=". ">
+    <layout suffix=" ">
+      <group delimiter=". " diplay="block">
         <text macro="contributors"/>
         <text macro="date"/>
         <text macro="title"/>
@@ -653,7 +653,7 @@
       <text macro="issue"/>
       <text macro="locators-article"/>
       <text macro="access" prefix=". "/>
-<text variable="note" display="block"/>
+<text variable="note" display="indent"/>
 
     </layout>
   </bibliography>
