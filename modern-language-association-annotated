@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="minimal-two">
   <info>
-    <title>Modern Language Association 9th edition Annotated (modern-language-association-annotated)</title>
+    <title>Modern Language Association 9th edition Annotated (modern-language-association-annotated.csl)</title>
     <title-short>MLA</title-short>
     <id>https://github.com/pauljs13/csl/main/modern-language-association-annotated.csl</id>
     <link href="https://github.com/pauljs13/csl/main/modern-language-association-annotated.csl" rel="self"/>
