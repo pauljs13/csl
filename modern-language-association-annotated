@@ -3,8 +3,8 @@
   <info>
     <title>Modern Language Association 9th edition Annotated</title>
     <title-short>MLA</title-short>
-    <id>http://www.zotero.org/styles/modern-language-association-annotated</id>
-    <link href="http://www.zotero.org/styles/modern-language-association-annotated" rel="self"/>
+    <id>https://github.com/pauljs13/csl/blob/main/modern-language-association-annotated</id>
+    <link href="https://github.com/pauljs13/csl/blob/main/modern-language-association-annotated" rel="self"/>
     <link href="http://style.mla.org" rel="documentation"/>
     <author>
       <name>Sebastian Karcher</name>
