@@ -336,7 +336,7 @@
         </group>
         <text macro="accessed"/>
       </group>
-   <text variable="note" display="block"/>
+
     </layout>
   </bibliography>
 </style>
